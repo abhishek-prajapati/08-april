@@ -13,3 +13,7 @@ Edit
 Important Commands
 To clone the repository:
 
+git log
+     git log -1 (To see last commit, -2 for last two commit and so on).
+To change commit comment 
+
